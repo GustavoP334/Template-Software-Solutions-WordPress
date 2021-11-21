@@ -1,0 +1,14 @@
+main {
+    -webkit-box-flex: 1;
+    -ms-flex: 1;
+    flex: 1; }
+
+.imagem-solucoes{
+    max-width: 100%;
+    width: 100vw;
+    height: 40vh;
+    z-index: -1; }
+
+.conteudo {
+    margin: 0 3rem;
+    text-align: justify; }
